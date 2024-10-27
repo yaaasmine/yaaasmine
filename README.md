@@ -1,17 +1,17 @@
- # Hello there! I'm Yasmine Beqqali.
+# Hello there! I'm Yasmine Beqqali.
 🚩 **Data Engineer | Data Analyst** 🚩
 
-I’m passionate about transforming raw data into meaningful insights. Graduated with a degree in Data Engineering  from the School of Information Science (ESI) in 2024, and have a strong background in cloud technologies and data warehousing.
+I’m passionate about transforming raw data into meaningful insights. Graduated with a degree in **Data Engineering** from the School of Information Science (ESI) in 2024, and have a strong background in **cloud technologies** and **data warehousing**.
+
 ![Cat Coding GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ## 🚀 About Me
-- 🌍 Based in Morocco
-- 🎓 Microsoft-certified in data technologies
-- 💼 Open to roles in data engineering and analytics
-- 🤝 **Looking to collaborate on:** Data-driven projects, especially in the cloud space (Azure, GCP) and with tools like Snowflake and Databricks.
--  🌱 **I'm currently learning:** Microsoft Azure, along with deepening my knowledge in Graph Theory and Data Analysis.
--  🛠️ **Ask me about:** Data Engineering, ETL pipelines, and cloud solutions for data storage and analytics.
-
+- 🌍 **Based in Morocco**
+- 🎓 **Microsoft-certified** in data technologies
+- 💼 **Open to roles** in data engineering and analytics
+- 🤝 **Looking to collaborate on:** **Data-driven projects**, especially in the **cloud space** (Azure, GCP) and with tools like **Snowflake** and **Databricks**.
+- 🌱 **Currently learning:** Microsoft Azure, along with deepening my knowledge in **Graph Theory** and **Data Analysis**.
+- 🛠️ **Ask me about:** **Data Engineering**, **ETL pipelines**, and **cloud solutions** for data storage and analytics.
 
 ## 🌟 Tech Stack
 ### Languages
@@ -33,6 +33,8 @@ I’m passionate about transforming raw data into meaningful insights. Graduated
 ![PANDAS](https://img.shields.io/badge/PANDAS-%23FFFDFF.svg?style=for-the-badge&logo=PANDAS&logoColor=blue)
 ![NUMPY](https://img.shields.io/badge/NUMPY-%23FFFDFF.svg?style=for-the-badge&logo=NUMPY&logoColor=green)
 ![REACT](https://img.shields.io/badge/REACT-%23FFFDFF.svg?style=for-the-badge&logo=REACT&logoColor=blue)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%231F2A5F.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 🎓 Education
 
@@ -42,8 +44,5 @@ I’m passionate about transforming raw data into meaningful insights. Graduated
 - **Preparation Classes for the Grandes Écoles**  
   Focused on advanced mathematics, physics, and computer science foundations.
 
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-beqqali/)
-
-
