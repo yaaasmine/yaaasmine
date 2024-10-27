@@ -2,7 +2,7 @@
 🚩 **Data Engineer | Data Analyst** 🚩
 
 I’m passionate about transforming raw data into meaningful insights. Graduated with a degree in Data Engineering  from the School of Information Science (ESI) in 2024, and have a strong background in cloud technologies and data warehousing.
-![rb_2125](https://github.com/user-attachments/assets/a83a76bc-3942-483e-9349-083c95c57700)
+![rb_2125](https://github.com/user-attachments/assets/742f82c6-1dc2-4b41-85f8-0660adfc96fc)
 
 ## 🚀 About Me
 - 🌍 Based in Morocco
