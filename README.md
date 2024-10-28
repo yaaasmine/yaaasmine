@@ -39,13 +39,11 @@ I’m passionate about transforming raw data into meaningful insights. Graduated
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23FF9900.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-%23FFFDFF.svg?style=for-the-badge&logo=apache-hadoop&logoColor=yellow)
-![SPSS](https://img.shields.io/badge/SPSS-%23FFFDFF.svg?style=for-the-badge&logo=ibm&logoColor=blue)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23FFFDFF.svg?style=for-the-badge&logo=java&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFDFF.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23FFFDFF.svg?style=for-the-badge&logo=seaborn&logoColor=blue)
 
 ## 🎓 Education
 
