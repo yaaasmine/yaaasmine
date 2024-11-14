@@ -1,5 +1,5 @@
 # Hello there! I'm Yasmine Beqqali.
-🚩 **Data Engineer | Data Analyst** 🚩
+🚩 **Data Engineer ** 🚩
 
 I’m passionate about transforming raw data into meaningful insights. Graduated with a degree in **Data Engineering** from the School of Information Science (ESI) in 2024, and have a strong background in **cloud technologies** and **data warehousing**.
 
