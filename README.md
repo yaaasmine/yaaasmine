@@ -45,13 +45,6 @@ I’m passionate about transforming raw data into meaningful insights. Graduated
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFDFF.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🎓 Education
-
-- **Degree in Data Engineering**  
-  Specialized in data engineering, machine learning, and analytics.
-
-- **Preparation Classes for the Grandes Écoles**  
-  Focused on advanced mathematics, physics, and computer science foundations.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-beqqali/)
