@@ -8,9 +8,8 @@ I’m passionate about transforming raw data into meaningful insights. Graduated
 ## 🚀 About Me
 - 🌍 **Based in Morocco**
 - 🎓 **Microsoft-certified** in data technologies
-- 💼 **Open to roles** in data engineering and analytics
+- 💼 **Open to roles** in data engineering
 - 🤝 **Looking to collaborate on:** **Data-driven projects**, especially in the **cloud space** (Azure, GCP) and with tools like **Snowflake** and **Databricks**.
-- 🌱 **Currently learning:** Microsoft Azure, along with deepening my knowledge in **Graph Theory** and **Data Analysis**.
 - 🛠️ **Ask me about:** **Data Engineering**, **ETL pipelines**, and **cloud solutions** for data storage and analytics.
 
 ## 🌟 Tech Stack
